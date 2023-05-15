@@ -1,7 +1,10 @@
 # Accounts
 Projeto com NODE.JS
 <br>
-Bank account project on the server, using Node libraries such as:
+PT<br>
+Projeto simulando conta bancária no servidor, utilizando bibliotecas Node como: chalk / inquire.<br>
+EN<br>
+Project simulating a bank account on the server, using Node libraries such as:
 chalk / inquire.
 <br><br>
 
